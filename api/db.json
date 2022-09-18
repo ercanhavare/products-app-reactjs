@@ -1,0 +1,111 @@
+{
+   "products":[
+      {
+         "id":1,
+         "categoryId":2,
+         "productName":"Chai",
+         "quantityPerUnit":"48 - 6 oz jars",
+         "unitPrice":"23",
+         "unitsInStock":53
+      },
+      {
+         "id":2,
+         "categoryId":2,
+         "productName":"Chang",
+         "quantityPerUnit":"24 - 12 oz bottles",
+         "unitPrice":"23",
+         "unitsInStock":26
+      },
+      {
+         "id":3,
+         "categoryId":2,
+         "productName":"Chef Anton's Cajun Seasoning",
+         "quantityPerUnit":"48 - 6 oz jars",
+         "unitPrice":"23",
+         "unitsInStock":0
+      },
+      {
+         "id":4,
+         "categoryId":1,
+         "productName":"Northwoods Cranberry Saunce",
+         "quantityPerUnit":"12 - 12 oz jars",
+         "unitPrice":"23",
+         "unitsInStock":53
+      },
+      {
+         "id":5,
+         "categoryId":2,
+         "productName":"Nord-Ost Matjeshering",
+         "quantityPerUnit":"10 - 200 oz jars",
+         "unitPrice":"23",
+         "unitsInStock":38
+      },
+      {
+         "id":6,
+         "categoryId":1,
+         "productName":"Chai 2",
+         "quantityPerUnit":"48 - 6 oz jars",
+         "unitPrice":"23",
+         "unitsInStock":53
+      },
+      {
+         "id":7,
+         "categoryId":2,
+         "productName":"Chang 2",
+         "quantityPerUnit":"24 - 12 oz bottles",
+         "unitPrice":"23",
+         "unitsInStock":26
+      },
+      {
+         "id":8,
+         "categoryId":3,
+         "productName":"Chef Anton's Cajun Seasoning 2",
+         "quantityPerUnit":"48 - 6 oz jars",
+         "unitPrice":"23",
+         "unitsInStock":0
+      },
+      {
+         "id":9,
+         "categoryId":4,
+         "productName":"Northwoods Cranberry Saunce 2",
+         "quantityPerUnit":"12 - 12 oz jars",
+         "unitPrice":"23",
+         "unitsInStock":53
+      },
+      {
+         "id":10,
+         "categoryId":5,
+         "productName":"Nord-Ost Matjeshering 2",
+         "quantityPerUnit":"10 - 200 oz jars",
+         "unitPrice":"23",
+         "unitsInStock":38
+      }
+   ],
+   "categories":[
+      {
+         "id":1,
+         "categoryName":"Beverages",
+         "seoUrl":"beverages"
+      },
+      {
+         "id":2,
+         "categoryName":"Condiments",
+         "seoUrl":"condiments"
+      },
+      {
+         "id":3,
+         "categoryName":"Confections",
+         "seoUrl":"confections"
+      },
+      {
+         "id":4,
+         "categoryName":"Dairy Products",
+         "seoUrl":"dairy-products"
+      },
+      {
+         "id":5,
+         "categoryName":"Grains/Cereals",
+         "seoUrl":"grains-cereals"
+      }
+   ]
+}
